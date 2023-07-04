@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "linio-security-338512",
+  "private_key_id": "501fb57fdb3ba721ad39e4af3be331aee79226e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSLY363ag/I71i\nX+n20vPMkLHOO4c/m4gVEifs1LiEOTAseYmQc6spGjyskpMyYvlxxPTNcyoTx3GG\nnCBCrwyJxZOTS2nJwTSv88ZwqgdwvHpZsKaCguEbGAnCXhIDQs6kGjcqX4Nbi3V9\nAj+nIeoyoqvQcbWgBESf1BBsomX50LWOTxJdTYvZwKtqo54DnvCoVjCKqJ8D+oOS\nFk4n8yFR50nQ+7lcmThasJj0bNX1HgvtwcJW0U5eCUjsUuH9+bU4wJ0Z6N9x37n2\nMs/F+Sy0UgTa5NHYpv5AskIadH5R92JPuNAzuCUvB6wA14VFzZCwkSUGWWdvYEJH\nzNGTi2ULAgMBAAECggEAUct6wtO6o3/kN0G+itlEGiuBlxIhq4Z66kBbm1aZzJN5\nBQXznGz3gpJ8ZGjSsjxEeZs97irQiEwJCWr/PxRi28cxjJQ/wk3XlFZZtwTkymH/\nd6JA2u/WbTXormTvu6cnRkQRjgMH2vumKJVUclXHkBcwqHloRrMChfUAw1ZcO2Di\ngWeBov+h4N6zmX0D0nfVkSsiqKQOA75dDMlmcrQTvSzmA5mPooJqFs1JNx3csFPv\nnhX4hIU8VSLsGZ0g6psdORgGA/iiOo1NLo4VNqrFO1rwRpSPHy3XOMx6SKGEf5Td\niREGQD13vc4Fka+R7rfHEchfgT9HnLdum9zyr0oxmQKBgQDs2DWUYfwswnjGLv3d\njd5LkgjZsw5H99Hr5DNrRkYGUyHCcsFnw93ke1zNiEwqIPfkMlHXCh2o152il2nS\nlHhGPiw8Yhh/3boijWuOgjx50F4/WrAP6OEVC0CsTf68OQnQkjLTGNDTd3rbDmkm\nowzJLHiM+Owv0xMfr022LTzbPwKBgQDjLTi1IZ4G8uZosu8Z06eIBOurIyLUeZdD\n6ChzumAGZW+rE1qtLP3O79hJPsnhjmJHY7IZQ+leDl9aCxBmoOF7TW9CS5DV5+wk\nEp2u1/9Y3Xdp59zGJ6acXgHZhNYQdQlCybusu/Q8wajyZN/ayJisMvNVMroqB7rC\nOaD/UCK/NQKBgGBzmDZKRQjxVX/X6TiNqsZ5vTLy0VELoih/cVUxdBjlR+1JEGwy\nfq2qc1ucMvBBJtJ+j4eULgnxbNem88h3ABgS/67DgBiqcj/Z+cA6V2iAK7F/PA3u\nl6MbRwYkaSW70LxonVwMUhacJKMK1lWOtwlCHAHE6WJ8geA4Ytxaxdq/AoGAdzLc\nJVYtR7IdqWPxxxhiOCF00ogOF3RxJSVkTEzHY7PHovj1xBXuWq1ITC5Q2TPPZ2vt\nIAqdIUfjSiiyA1d42CyqKxvhNAuLwOWvrPUSuzsBFCWflq1pY3SD/fEQLPRr1opp\nGdpI7bQjhIPfXTmRuhDF0rdaLQF/QbfhPPV8Nd0CgYEAylr7ziBUPk8smBU8AzVP\nvvXTrAu6TUu4AckeeMeKYMJurkWVNWuLEvmE+Erp3mbjvhCMiD0HsjSoj+8EjQIA\nBglzZm/K9qsqxPPDkv3l4ohSsNDLn13ojr2DKPwBPZdOjQOtJPMX5607PgJCwPmA\n6FN4CHNUY3oT6QYrSQcEBKM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "soar-testing-leak-credentials@linio-security-338512.iam.gserviceaccount.com",
+  "client_id": "105951086750530349449",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/soar-testing-leak-credentials%40linio-security-338512.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
